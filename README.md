@@ -10,9 +10,9 @@
 
 ## 基本編
 　![Python講座(基本編)](Python講座(基本編).pdf)<br>
-　[コード(GoogleColab)](https://drive.google.com/file/d/1aukDZVLGA6frhQmnD-pP0Shb-g2VGo7e/view?usp=sharing)
+　[サンプルコード(GoogleColab)](https://drive.google.com/file/d/1aukDZVLGA6frhQmnD-pP0Shb-g2VGo7e/view?usp=sharing)
 (GitHubの仕様上、ctrl+右クリックで別タブで開いてください)
 
 ## 応用編
-　Not Yet
+　まだ
  
